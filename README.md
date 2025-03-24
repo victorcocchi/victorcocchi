@@ -94,7 +94,7 @@ Me chamo Victor Cocchi, tenho 36 anos e sou natural de São Paulo. Atualmente, e
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="170" 
+      height="150" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorcocchi&theme=highcontrast&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
