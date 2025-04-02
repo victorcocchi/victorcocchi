@@ -3,7 +3,7 @@
 **`Estudante`**
 
 - 👨‍🎓   Sou estudante no curso de Análise e Desenvolvimento de Sistemas 
-- 🖋️  Estudando, HTML, CSS, JavaScript, Java e logicadas de programação em plataformas de cursos
+- 🖋️  Estudando, HTML, CSS, JavaScript, Java e lógicas de programação em plataformas de cursos
 - 👯  Buscando estágio tanto em front-end quanto back-end
 - 📫  Contate-me no e-mail: victorcocchi@hotmail.com
 
